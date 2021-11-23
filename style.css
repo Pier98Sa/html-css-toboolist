@@ -89,7 +89,7 @@ h2{
     content: "\2713";
     color: green; 
     width: 30px;
-    height: 25px;
+    height: 30px;
     text-align: center;
     vertical-align: middle;
     border-radius: 50%;
@@ -102,7 +102,7 @@ h2{
     content: "\2717";
     color: red;
     width: 30px;
-    height: 25px;
+    height: 30px;
     text-align: center;
     vertical-align: middle;
     border-radius: 50%;
