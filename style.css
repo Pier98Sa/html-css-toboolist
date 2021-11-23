@@ -76,11 +76,30 @@ header{
 }
 .check::after{
     content: "\2713";
-    color: green;
+    color: green; 
+ 
+}
+.check{
+    width: 25x;
+    height: 25px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: green;
+    padding: 1px;
 }
 .ballot::after{
     content: "\2717";
     color: red;
+    width: 25x;
+    height: 25px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border-style: solid;
+    border-color:red;
+    padding: 1px;
 }
 /*inizio etichette della lista*/
 .etichetta{
