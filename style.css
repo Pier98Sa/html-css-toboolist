@@ -77,9 +77,6 @@ header{
 .check::after{
     content: "\2713";
     color: green; 
- 
-}
-.check{
     width: 25x;
     height: 25px;
     text-align: center;
@@ -88,6 +85,7 @@ header{
     border-style: solid;
     border-color: green;
     padding: 1px;
+    font-size: 8px;
 }
 .ballot::after{
     content: "\2717";
@@ -100,6 +98,7 @@ header{
     border-style: solid;
     border-color:red;
     padding: 1px;
+    font-size: 8px;
 }
 /*inizio etichette della lista*/
 .etichetta{
