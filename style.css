@@ -1,0 +1,32 @@
+/*inizio common*/
+body{
+    background-color: #f6f8f9;
+    margin: 0px;
+}
+/*fine common*/
+
+/*inizio header */
+header{
+    height: 105px;
+    background-color: #fff;
+}
+.logo-header{
+    height: 90px;
+    margin-top: 5px;
+    margin-left: 23px;
+    vertical-align: middle;
+}
+.scritta-header{
+    display: inline-block;
+    font-size: 40px;
+    font-weight: bolder;
+    vertical-align: middle;
+}
+/*fine header */
+
+/*inizio main */
+
+/*fine main*/
+
+
+
