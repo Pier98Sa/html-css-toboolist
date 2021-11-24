@@ -89,8 +89,6 @@ header{
 .check::after{
     content: "\2713";
     color: green; 
-    width: 30px;
-    height: 30px;
     text-align: center;
     vertical-align: middle;
     border-radius: 50%;
@@ -102,8 +100,6 @@ header{
 .ballot::after{
     content: "\2717";
     color: red;
-    width: 30px;
-    height: 30px;
     text-align: center;
     vertical-align: middle;
     border-radius: 50%;
