@@ -118,7 +118,8 @@ header{
     margin-top: 0px;
     }
 .task-list ul li{
-    margin: 20px 0px;
+    margin: 10px 0px;
+    color: #434851;
 }
 /*inizio etichette della lista*/
 .etichetta{
