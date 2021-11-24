@@ -12,17 +12,17 @@ main{
 
 /*inizio header */
 header{
-    height: 155px;
+    height: 100px;
     background-color: #fff;
 }
 .logo-header{
-    height: 90px;
+    height: 100%;
     margin-left: 23px;
     vertical-align: middle;
 }
 .scritta-header{
     display: inline-block;
-    font-size: 70px;
+    font-size: 40px;
     font-weight: bolder;
     vertical-align: middle;
 }
